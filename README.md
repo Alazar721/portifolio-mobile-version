@@ -83,7 +83,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Alazar721/helloworld.git
+  git clone git@github.com:Alazar721/portifolio-mobile-version.git
 ```
 
 -
