@@ -47,6 +47,9 @@ a {
   left: 0;
   top: 92px;
   background: #1c1a19;
+  background-image: url(/Images/Illustration.png);
+  background-repeat: no-repeat;
+  background-position: 100% 124%;
 }
 
 h1 {
@@ -92,7 +95,7 @@ h1 {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #fff;
+  color: #ffffff;
   flex: none;
   order: 2;
   flex-grow: 0;
@@ -104,15 +107,9 @@ h1 {
   display: inline-flex;
   flex-direction: row;
   padding-left: 35px;
+  list-style: none;
 }
 
 .all {
   margin: 0 11px;
-}
-
-.illustration {
-  position: absolute;
-  left: 60.74%;
-  right: 31.09%;
-  top: 38%;
 }
