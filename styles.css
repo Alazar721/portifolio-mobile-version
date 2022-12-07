@@ -8,34 +8,34 @@
   top: 0;
   background: #3c3a39;
 }
+
 .logo {
   width: 77px;
   height: 24px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
   line-height: 24px;
-  /* display: flex; */
   align-items: center;
-  color: #ffffff;
+  color: #fff;
   flex: none;
   order: 0;
   flex-grow: 1;
   margin: 35px 24px 12px;
 }
+
 .menu-icon {
   flex: none;
   order: 0;
   flex-grow: 1;
   margin: 35px 24px 12px;
 }
+
 .headline {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-
   position: absolute;
   width: 375px;
   height: 590px;
@@ -43,6 +43,7 @@
   top: 92px;
   background: #1c1a19;
 }
+
 h1 {
   width: 327px;
   height: 124px;
@@ -58,8 +59,8 @@ h1 {
   flex-grow: 0;
   padding-left: 24px;
   margin: 120px 0 0 0;
-  /* justify-content: flex-end; */
 }
+
 .head {
   display: flex;
   width: 327px;
@@ -77,6 +78,7 @@ h1 {
   padding-left: 24px;
   margin: 12px 0;
 }
+
 .description {
   width: 327px;
   height: 123px;
@@ -92,14 +94,17 @@ h1 {
   padding-left: 24px;
   margin: 0;
 }
+
 .link {
   display: inline-flex;
   flex-direction: row;
   padding-left: 35px;
 }
+
 .all {
   margin: 0 11px;
 }
+
 .illustration {
   position: absolute;
   left: 60.74%;
