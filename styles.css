@@ -12,7 +12,7 @@
 .logo {
   width: 77px;
   height: 24px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "san-serif";
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -23,6 +23,11 @@
   order: 0;
   flex-grow: 1;
   margin: 35px 24px 12px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
 }
 
 .menu-icon {
@@ -47,7 +52,7 @@
 h1 {
   width: 327px;
   height: 124px;
-  font-family: "Crete Round", sans-serif;
+  font-family: "Crete Round", "san-serif";
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
@@ -61,11 +66,11 @@ h1 {
   margin: 120px 0 0 0;
 }
 
-.head {
+.supporting-text {
   display: flex;
   width: 327px;
   height: 27px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "san-serif";
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -82,12 +87,12 @@ h1 {
 .description {
   width: 327px;
   height: 123px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", "san-serif";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #fff;
+  color: #ffffff;
   flex: none;
   order: 2;
   flex-grow: 0;
@@ -109,6 +114,5 @@ h1 {
   position: absolute;
   left: 60.74%;
   right: 31.09%;
-  top: 29.3%;
-  bottom: -11.63%;
+  top: 38%;
 }
