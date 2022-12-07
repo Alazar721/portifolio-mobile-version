@@ -6,7 +6,6 @@
   height: 92px;
   left: 0;
   top: 0;
-
   background: #3c3a39;
 }
 .logo {
@@ -57,7 +56,7 @@ h1 {
   flex: none;
   order: 0;
   flex-grow: 0;
-  padding-left: 10px;
+  padding-left: 24px;
   margin: 120px 0 0 0;
   /* justify-content: flex-end; */
 }
@@ -75,7 +74,7 @@ h1 {
   flex: none;
   order: 1;
   flex-grow: 0;
-  padding-left: 10px;
+  padding-left: 24px;
   margin: 12px 0;
 }
 .description {
@@ -90,6 +89,21 @@ h1 {
   flex: none;
   order: 2;
   flex-grow: 0;
-  padding-left: 10px;
+  padding-left: 24px;
   margin: 0;
+}
+.link {
+  display: inline-flex;
+  flex-direction: row;
+  padding-left: 35px;
+}
+.all {
+  margin: 0 11px;
+}
+.illustration {
+  position: absolute;
+  left: 60.74%;
+  right: 31.09%;
+  top: 29.3%;
+  bottom: -11.63%;
 }
