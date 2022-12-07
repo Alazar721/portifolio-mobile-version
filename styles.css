@@ -12,7 +12,7 @@
 .logo {
   width: 77px;
   height: 24px;
-  font-family: "Roboto", "sans-serif";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -52,7 +52,7 @@ a {
 h1 {
   width: 327px;
   height: 124px;
-  font-family: "Crete Round", "sans-serif";
+  font-family: "Crete Round", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
@@ -70,7 +70,7 @@ h1 {
   display: flex;
   width: 327px;
   height: 27px;
-  font-family: "Roboto", "sans-serif";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -87,7 +87,7 @@ h1 {
 .description {
   width: 327px;
   height: 123px;
-  font-family: "Poppins", "sans-serif";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
