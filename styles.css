@@ -18,7 +18,7 @@
   font-size: 18px;
   line-height: 24px;
   align-items: center;
-  color: white;
+  color: #fff;
   flex: none;
   order: 0;
   flex-grow: 1;
@@ -26,7 +26,7 @@
 }
 
 a {
-  color: white;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ h1 {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: white;
+  color: #fff;
   flex: none;
   order: 2;
   flex-grow: 0;
@@ -383,7 +383,7 @@ h1 {
   align-items: center;
   padding: 12px;
   gap: 10px;
-  width: 124px;
+  width: 94px;
   height: 18px;
   background: #ff6b00;
   flex: none;
@@ -406,9 +406,9 @@ h1 {
   text-align: center;
   letter-spacing: 0.03em;
   margin-bottom: 35px;
-  margin-left: 20px;
-  margin-top: 30px;
-  color: white;
+  margin-left: 6px;
+  margin-top: 35px;
+  color: #fff;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -461,7 +461,7 @@ h1 {
   font-weight: 400;
   font-size: 32px;
   line-height: 44px;
-  color: white;
+  color: #fff;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -523,7 +523,7 @@ h1 {
   font-weight: 500;
   font-size: 15px;
   line-height: 20px;
-  color: white;
+  color: #fff;
   flex: none;
   order: 0;
   flex-grow: 0;
