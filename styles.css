@@ -210,6 +210,10 @@ h1 {
   list-style: none;
 }
 
+.title {
+  margin-top: 105px;
+}
+
 .title-post {
   width: 327px;
   height: 36px;
