@@ -249,6 +249,7 @@ h1 {
 
 .tags {
   display: flex;
+
   flex-direction: row;
   align-items: center;
   padding: 0;
@@ -866,7 +867,8 @@ h1 {
 .form {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
+  /* text-align: center; */
   padding: 100px 24px 0 40px;
   gap: 58px;
   position: absolute;
@@ -876,27 +878,13 @@ h1 {
   top: 2138px;
 }
 
-.text {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0;
-  gap: 24px;
-  width: 327px;
-  height: 216px;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-  text-align: center;
-}
-
 .primery-text {
   width: 327px;
   height: 216px;
   font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 32px;
+  font-size: 28px;
   line-height: 44px;
   text-align: center;
   color: #172b4d;
@@ -935,21 +923,29 @@ h1 {
   flex: none;
   order: 2;
   flex-grow: 0;
+  background: #fbf8f7;
 }
 
 .b {
   display: flex;
   flex-direction: row;
-  align-items: center;
-  padding: 12px;
-  width: 145px;
-  height: 38px;
+  border: 1px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  margin: 40px 0 0 70px;
+  color: white;
+  padding: 12px 12px 12px 25px;
+  gap: 20px;
+  width: 151px;
+  height: 48px;
   background: #ff6b00;
   flex: none;
   order: 3;
   flex-grow: 0;
-  border: 1px white;
-  text-align: center;
 }
 
 .line2 {
@@ -959,22 +955,6 @@ h1 {
   right: 0;
   top: 0;
   background: #dfe1e6;
-}
-
-.t {
-  width: 200px;
-  height: 24px;
-  font-family: "Inter", sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 24px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.03em;
-  margin-left: 20px;
-  color: white;
 }
 
 .b2 {
