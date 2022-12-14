@@ -249,7 +249,6 @@ h1 {
 
 .tags {
   display: flex;
-
   flex-direction: row;
   align-items: center;
   padding: 0;
@@ -868,7 +867,6 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* text-align: center; */
   padding: 100px 24px 0 40px;
   gap: 58px;
   position: absolute;
