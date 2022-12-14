@@ -980,7 +980,8 @@ h1 {
 }
 
 .btnh:hover {
-  background: rgb(236, 173, 173);
+  background: #fff5e1;
+  color: #f55800;
 }
 
 .rectangle-2 {
