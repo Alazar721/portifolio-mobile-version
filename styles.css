@@ -867,7 +867,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 100px 24px 0 40px;
+  padding: 100px 0 0 40px;
   gap: 58px;
   position: absolute;
   width: 375px;
@@ -922,6 +922,7 @@ h1 {
   order: 2;
   flex-grow: 0;
   background: #fbf8f7;
+  color: #3c3a39;
 }
 
 .b {
